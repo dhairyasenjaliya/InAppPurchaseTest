@@ -1,0 +1,8 @@
+<resources>
+    <string moduleConfig="true" name="CodePushDeploymentKey">9oXurglkkCzFEpAhhH2mgCPg7vUQPKTcgQDjZ</string>
+    <string name="app_name">stoa</string>
+    <string name="RNB_GOOGLE_PLAY_LICENSE_KEY">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApCqV9K32vlWbCp61l33nhe+XJDfpKpBkTHg/N7lqeMkD1nmFdq2ZyH1usE18Ss6xzPPd3J4g3gO0klgLKO5iBok7Cs0kCN+q7kSnYVqZbcpxeLkNJr6mZ0zTaZEmzXQw2UWPoCF2YqcXfgAGxLvc0/zzj+5Aur1vhedWzlhPxSnhL7Pl8sELSvCeraebpIL8mazLGiy+qqvaY9i1NSroAuMtLYRhKJyPMag5a/59AjB/LMcozQj+hAyZAlsv2KkkVLJ23o0ZiItsglIPLGvcBxWjv+S5l4y5Lst5GNLypb1BBXWFUOk326VhXdshKPKlCDP+8lwv9J1Oq8GmiEbolwIDAQAB</string>
+    <string name="facebook_app_id">676423829432809</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+</resources>

@@ -1,0 +1,6 @@
+module Pods_stoa {
+  umbrella header "Pods-stoa-umbrella.h"
+
+  export *
+  module * { export * }
+}

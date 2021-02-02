@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1033918356282",
+    "firebase_url": "https://stoa-d0fdd.firebaseio.com",
+    "project_id": "stoa-d0fdd",
+    "storage_bucket": "stoa-d0fdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033918356282:android:03a7257748c6247a",
+        "android_client_info": {
+          "package_name": "stoameditation.stoa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033918356282-arv1p4gseg142n5m7luefefcovd9f4qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUa-NtIZAylz56YHyEn3Jw1oNZ6EDZ-DY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

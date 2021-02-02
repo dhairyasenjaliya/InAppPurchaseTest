@@ -1,0 +1,6 @@
+module Pods_stoa_stoaTests {
+  umbrella header "Pods-stoa-stoaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
